@@ -1,5 +1,1 @@
-body {
-  background-color: lightblue;
-  color: orange;
-  text-align: center;
-}
+body { -ms-flex-align: center; align-items: center; background-color: lightblue; border: 1px solid blue; color: orange; display: -ms-flexbox; display: flex; -ms-flex-pack: center; justify-content: center; text-align: center; }
