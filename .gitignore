@@ -59,6 +59,3 @@ typings/
 
 # next.js build output
 .next
-
-#OWN_GIT_IGNORE
-.sass-cache
